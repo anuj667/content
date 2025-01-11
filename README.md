@@ -42,7 +42,7 @@ The MDN Web Docs project welcomes contributions from everyone who shares our goa
 To find out how to get started, see the [CONTRIBUTING.md](CONTRIBUTING.md) document in this repository.
 By participating in and contributing to our projects and discussions, you acknowledge that you have read and agree to our [Code of Conduct](CODE_OF_CONDUCT.md).
 
-## Get in touch
+## Get in touch always
 
 You can communicate with the MDN Web Docs team and community using the [communication channels][].
 
